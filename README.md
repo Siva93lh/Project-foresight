@@ -18,3 +18,9 @@
 - Power Query
 - DAX
 - GitHub
+
+  ## 📂 Excel Datasets
+
+📦 [Inventory Dataset]()  
+📊 [Sales Dataset]()  
+📦 [Inventory Dataset]()  
