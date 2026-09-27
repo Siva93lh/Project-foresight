@@ -9,14 +9,17 @@
 
 ## 🛠️ Tools & Technologies
 
-- Python
-- Pandas - NumPy
-- Machine Learning
-- Microsoft Excel
-- Power BI
-- Power Query
-- DAX
-- GitHub
+<ul>
+<li>Python</li>
+<li>Pandas</li>
+<li>NumPy</li>
+<li>Machine Learning</li>
+<li>Microsoft Excel</li>
+<li>Power BI</li>
+<li>Power Query</li>
+<li>DAX</li>
+<li>GitHub</li>
+</ul>
 
   ## 📁 Project Repository Structure
 
