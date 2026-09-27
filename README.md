@@ -11,6 +11,18 @@
 # 📌 INTRODUCTION
 Project Foresight is an AI-powered demand forecasting and inventory intelligence platform designed to help businesses optimize stock planning and supply chain decisions. It combines Machine Learning, data analytics, and Power BI to forecast SKU-level demand, identify potential stockout and overstock risks, and provide actionable insights through an interactive Executive Dashboard.
 
+# 🎯 OBJECTIVES
+
+<ul>
+<li>Forecast SKU-level demand using Machine Learning.</li>
+<li>Identify potential stockout and overstock risks.</li>
+<li>Analyze sales, inventory, and product performance.</li>
+<li>Optimize inventory planning and stock management.</li>
+<li>Create meaningful KPIs and DAX measures in Power BI.</li>
+<li>Develop an interactive Executive Dashboard for data-driven decision-making.</li>
+<li>Generate predictive and actionable business insights.</li>
+</ul>
+
 ## 🛠️ Tools & Technologies
 
 <ul>
