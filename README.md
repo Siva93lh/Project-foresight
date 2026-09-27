@@ -10,8 +10,7 @@
 ## 🛠️ Tools & Technologies
 
 - Python
-- Pandas
-- NumPy
+- Pandas - NumPy
 - Machine Learning
 - Microsoft Excel
 - Power BI
