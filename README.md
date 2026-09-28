@@ -56,22 +56,25 @@ Project Foresight is an AI-powered demand forecasting and inventory intelligence
 </ul>
 
 
-## 📊 Key KPIs
-- Total Sales
-- Total Quantity Sold
-- Total Demand
-- Forecasted Demand
-- Total Inventory
-- Inventory Value
-- Stockout Products
-- Low Stock Products
-- Overstock Products
-- Reorder Quantity
-- Safety Stock
-- Reorder Point
-- Forecast Accuracy
-- Inventory Turnover
-- Inventory Coverage
+<h2>📊 Key KPIs</h2>
+
+<ul>
+<li>Total Sales</li>
+<li>Total Quantity Sold</li>
+<li>Total Demand</li>
+<li>Forecasted Demand</li>
+<li>Total Inventory</li>
+<li>Inventory Value</li>
+<li>Stockout Products</li>
+<li>Low Stock Products</li>
+<li>Overstock Products</li>
+<li>Reorder Quantity</li>
+<li>Safety Stock</li>
+<li>Reorder Point</li>
+<li>Forecast Accuracy</li>
+<li>Inventory Turnover</li>
+<li>Inventory Coverage</li>
+</ul>
 
   ## 📁 Project Repository Structure
 
