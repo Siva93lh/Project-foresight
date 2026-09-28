@@ -28,7 +28,15 @@ Project Foresight is an AI-powered demand forecasting and inventory intelligence
 | Resource | Link |
 |---|---|
 | 📊 Power BI Dashboard | [View Dashboard]( https://drive.google.com/file/d/1GPi8tSglUhy8l0QNr-Mgli-ceiIMTph0/view) |
-| 🌐 Excel datasets | [View datasets](https://docs.google.com/spreadsheets/d/1bZLiKhOEdLksPd-JxZCpiahjZHnvfuLT/edit?gid=1830116320#gid=1830116320) |
+| 🌐 Excel datasets | [View datasets](https://docs.google.com/spreadsheets/d/1bZLiKhOEdLksPd-JxZCpiahjZHnvfuLT/edit?gid=1830116320#gid=1830116320) 
+The project uses the following Excel datasets:
+
+1. 📁 [Dataset 1 – Sales Data](./datasets/Sales_Data.xlsx)
+2. 📁 [Dataset 2 – Inventory Data](./datasets/Inventory_Data.xlsx)
+3. 📁 [Dataset 3 – Product Data](./datasets/Product_Data.xlsx)
+4. 📁 [Dataset 4 – Demand Data](./datasets/Demand_Data.xlsx)
+5. 📁 [Dataset 5 – Forecast Data](./datasets/Forecast_Data.xlsx)
+6. 📁 [Dataset 6 – Customer/Product Analysis](./datasets/Customer_Data.xlsx)
 | 📄 Project Documentation | [View PDF](https://drive.google.com/file/d/125Ons3pcfdMVOp0_HidO6r-9xo9qRr_H/view)
 
 
