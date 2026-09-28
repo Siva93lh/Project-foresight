@@ -83,3 +83,18 @@ ML-Business-Analytics/
 │
 └── 📄 README.md
 ```
+
+📌 Conclusion
+FORESIGHT successfully integrates Data Analytics, Machine Learning, Power BI, DAX, and Streamlit into an end-to-end demand and inventory intelligence solution.
+The project transforms raw sales and inventory data into meaningful business insights through data preprocessing, EDA, feature engineering, and predictive analysis.
+The machine learning component helps forecast future product demand and identify changing demand patterns.
+
+
+
+
+
+
+
+
+
+
