@@ -57,7 +57,6 @@ Project Foresight is an AI-powered demand forecasting and inventory intelligence
 
 
 ## 📊 Key KPIs
-
 - Total Sales
 - Total Quantity Sold
 - Total Demand
@@ -73,7 +72,6 @@ Project Foresight is an AI-powered demand forecasting and inventory intelligence
 - Forecast Accuracy
 - Inventory Turnover
 - Inventory Coverage
-
 
   ## 📁 Project Repository Structure
 
