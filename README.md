@@ -76,25 +76,27 @@ Project Foresight is an AI-powered demand forecasting and inventory intelligence
 <li>Inventory Coverage</li>
 </ul>
 
+<h2>🧮 DAX Formulas Used</h2>
 <ul>
-<li><code>Total Sales = SUM('Inventory Data'[Sales])</code></li>
-<li><code>Total Quantity Sold = SUM('Inventory Data'[Quantity Sold])</code></li>
-<li><code>Total Inventory = SUM('Inventory Data'[Inventory Quantity])</code></li>
-<li><code>Total Demand = SUM('Inventory Data'[Demand])</code></li>
-<li><code>Average Demand = AVERAGE('Inventory Data'[Demand])</code></li>
-<li><code>Forecasted Demand = SUM('Inventory Data'[Forecasted Demand])</code></li>
-<li><code>Inventory Value = SUMX('Inventory Data', 'Inventory Data'[Inventory Quantity] * 'Inventory Data'[Unit Price])</code></li>
-<li><code>Stockout Products = CALCULATE(DISTINCTCOUNT('Inventory Data'[Product ID]), 'Inventory Data'[Inventory Quantity] = 0)</code></li>
-<li><code>Low Stock Products = CALCULATE(DISTINCTCOUNT('Inventory Data'[Product ID]), 'Inventory Data'[Inventory Quantity] &lt; 'Inventory Data'[Reorder Point])</code></li>
-<li><code>Overstock Products = CALCULATE(DISTINCTCOUNT('Inventory Data'[Product ID]), 'Inventory Data'[Inventory Quantity] &gt; 'Inventory Data'[Maximum Stock Level])</code></li>
-<li><code>Reorder Quantity = SUMX('Inventory Data', MAX(0, 'Inventory Data'[Reorder Point] - 'Inventory Data'[Inventory Quantity]))</code></li>
-<li><code>Safety Stock = AVERAGEX('Inventory Data', 'Inventory Data'[Safety Stock])</code></li>
-<li><code>Reorder Point = AVERAGEX('Inventory Data', 'Inventory Data'[Reorder Point])</code></li>
-<li><code>Forecast Accuracy = 1 - DIVIDE(ABS([Total Demand] - [Forecasted Demand]), [Total Demand], 0)</code></li>
-<li><code>Demand Variance = [Total Demand] - [Forecasted Demand]</code></li>
-<li><code>Inventory Turnover = DIVIDE([Total Quantity Sold], AVERAGE('Inventory Data'[Inventory Quantity]), 0)</code></li>
-<li><code>Inventory Coverage = DIVIDE([Total Inventory], [Average Demand], 0)</code></li>
-<li><code>At Risk Products = CALCULATE(DISTINCTCOUNT('Inventory Data'[Product ID]), 'Inventory Data'[Inventory Quantity] &lt; 'Inventory Data'[Forecasted Demand])</code></li>
+<li>Total Sales = SUM('Inventory Data'[Sales])</li>
+<li>Total Quantity Sold = SUM('Inventory Data'[Quantity Sold])</li>
+<li>Total Inventory = SUM('Inventory Data'[Inventory Quantity])</li>
+<li>Total Demand = SUM('Inventory Data'[Demand])</li>
+<li>Average Demand = AVERAGE('Inventory Data'[Demand])</li>
+<li>Forecasted Demand = SUM('Inventory Data'[Forecasted Demand])</li>
+<li>Inventory Value = SUMX('Inventory Data', 'Inventory Data'[Inventory Quantity] * 'Inventory Data'[Unit Price])</li>
+<li>Stockout Products = CALCULATE(DISTINCTCOUNT('Inventory Data'[Product ID]), 'Inventory Data'[Inventory Quantity] = 0)</li>
+<li>Low Stock Products = CALCULATE(DISTINCTCOUNT('Inventory Data'[Product ID]), 'Inventory Data'[Inventory Quantity] &lt; 'Inventory Data'[Reorder Point])</li>
+<li>Overstock Products = CALCULATE(DISTINCTCOUNT('Inventory Data'[Product ID]), 'Inventory Data'[Inventory Quantity] &gt; 'Inventory Data'[Maximum Stock Level])</li>
+<li>Reorder Quantity = SUMX('Inventory Data', MAX(0, 'Inventory Data'[Reorder Point] - 'Inventory Data'[Inventory Quantity]))</li>
+<li>Safety Stock = AVERAGEX('Inventory Data', 'Inventory Data'[Safety Stock])</li>
+<li>Reorder Point = AVERAGEX('Inventory Data', 'Inventory Data'[Reorder Point])</li>
+<li>Forecast Accuracy = 1 - DIVIDE(ABS([Total Demand] - [Forecasted Demand]), [Total Demand], 0)</li>
+<li>Demand Variance = [Total Demand] - [Forecasted Demand]</li>
+<li>Inventory Turnover = DIVIDE([Total Quantity Sold], AVERAGE('Inventory Data'[Inventory Quantity]), 0)</li>
+<li>Inventory Coverage = DIVIDE([Total Inventory], [Average Demand], 0)</li>
+<li>At Risk Products = CALCULATE(DISTINCTCOUNT('Inventory Data'[Product ID]), 'Inventory Data'[Inventory Quantity] &lt; 'Inventory Data'[Forecasted Demand])</li>
+</ul>
 
   ## 📁 Project Repository Structure
 
