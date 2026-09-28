@@ -26,19 +26,19 @@ Project Foresight is an AI-powered demand forecasting and inventory intelligence
 ## 🚀 Project Resources
 
 ### 📊 Dashboards
-- 🔗 [Power BI Dashboard](YOUR_POWER_BI_LINK)
+- 🔗 [Power BI Dashboard](https://drive.google.com/file/d/1GPi8tSglUhy8l0QNr-Mgli-ceiIMTph0/view)
 - 🌐 [Streamlit Dashboard](YOUR_STREAMLIT_LINK)
 
 ### 📄 Project Documentation
-- 📑 [View Project Documentation PDF](YOUR_GOOGLE_DRIVE_LINK)
+- 📑 [View Project Documentation PDF](https://drive.google.com/file/d/125Ons3pcfdMVOp0_HidO6r-9xo9qRr_H/view)
 
 ### 📂 Datasets
-- 📁 [Sales Data](./datasets/Sales_Data.xlsx)
-- 📁 [Inventory Data](./datasets/Inventory_Data.xlsx)
-- 📁 [Product Data](./datasets/Product_Data.xlsx)
-- 📁 [Demand Data](./datasets/Demand_Data.xlsx)
-- 📁 [Forecast Data](./datasets/Forecast_Data.xlsx)
-- 📁 [Customer Data](./datasets/Customer_Data.xlsx)
+- 📁 [ML Inventory Execution Dataset](https://docs.google.com/spreadsheets/d/1bZLiKhOEdLksPd-JxZCpiahjZHnvfuLT/edit?gid=1830116320#gid=1830116320)
+- 📁 [Sku master dataset](https://docs.google.com/spreadsheets/d/1zGx8timgjNy4tImztdaYsLwJjGhk7Gpw/edit?gid=609439121#gid=609439121)
+- 📁 [Customer Business ML Dataset](https://docs.google.com/spreadsheets/d/1mOEo-wIpo6N370-Sa_CmCbKXW3TnLzyK/edit?gid=545674598#gid=545674598)
+- 📁 [Inventory Seasonality Dataset](https://docs.google.com/spreadsheets/d/1mOEo-wIpo6N370-Sa_CmCbKXW3TnLzyK/edit?gid=545674598#gid=545674598)
+- 📁 [Promotional Datset](https://docs.google.com/spreadsheets/d/1nMYQqYIcREuX5Hli6yvjSNHEzF69IaLl/edit?gid=595165876#gid=595165876)
+- 📁 [Overstock Dataset](https://docs.google.com/spreadsheets/d/1nbMJ3Cwpz74THDzN82Qhnx0xW0MrWWr-/edit?gid=1678652439#gid=1678652439)
 
 
 ## 🛠️ Tools & Technologies
