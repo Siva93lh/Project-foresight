@@ -28,8 +28,9 @@ Project Foresight is an AI-powered demand forecasting and inventory intelligence
 | Resource | Link |
 |---|---|
 | 📊 Power BI Dashboard | [View Dashboard]( https://drive.google.com/file/d/1GPi8tSglUhy8l0QNr-Mgli-ceiIMTph0/view) |
-| 🌐 Streamlit Dashboard | [View Dashboard](YOUR_STREAMLIT_LINK) |
-| 📄 Project Documentation | [View PDF](YOUR_GOOGLE_DRIVE_LINK) |
+| 🌐 Excel datasets | [View datasets](https://docs.google.com/spreadsheets/d/1bZLiKhOEdLksPd-JxZCpiahjZHnvfuLT/edit?gid=1830116320#gid=1830116320) |
+| 📄 Project Documentation | [View PDF](https://drive.google.com/file/d/125Ons3pcfdMVOp0_HidO6r-9xo9qRr_H/view)
+
 
 
 ## 🛠️ Tools & Technologies
