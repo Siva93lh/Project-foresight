@@ -92,10 +92,6 @@ Project Foresight is an AI-powered demand forecasting and inventory intelligence
 <li>Safety Stock = AVERAGEX('Inventory Data', 'Inventory Data'[Safety Stock])</li>
 <li>Reorder Point = AVERAGEX('Inventory Data', 'Inventory Data'[Reorder Point])</li>
 <li>Forecast Accuracy = 1 - DIVIDE(ABS([Total Demand] - [Forecasted Demand]), [Total Demand], 0)</li>
-<li>Demand Variance = [Total Demand] - [Forecasted Demand]</li>
-<li>Inventory Turnover = DIVIDE([Total Quantity Sold], AVERAGE('Inventory Data'[Inventory Quantity]), 0)</li>
-<li>Inventory Coverage = DIVIDE([Total Inventory], [Average Demand], 0)</li>
-<li>At Risk Products = CALCULATE(DISTINCTCOUNT('Inventory Data'[Product ID]), 'Inventory Data'[Inventory Quantity] &lt; 'Inventory Data'[Forecasted Demand])</li>
 </ul>
 
   ## 📁 Project Repository Structure
