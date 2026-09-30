@@ -4,7 +4,7 @@
 
 ### 🔗 Project Links
 
-- 💻 [Source Code](https://github.com/Siva93lh/Project-foresight)
+- 💻 [Source Code](https://colab.research.google.com/drive/1RIO6snK8Q13afRpnWi8Urhg9F6usvLvz?usp=sharing)
 - 🚀 [Live Streamlit Dashboard](http://localhost:8501/)
 
  
