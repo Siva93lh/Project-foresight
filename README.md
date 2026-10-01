@@ -6,6 +6,7 @@
 
 - 💻 [Source Code](https://colab.research.google.com/drive/1RIO6snK8Q13afRpnWi8Urhg9F6usvLvz?usp=sharing)
 - 🚀 [Live Streamlit Dashboard](http://localhost:8501/)
+- [Stremalit Dashboards.pdf](https://drive.google.com/file/d/1Lahq0u-KXLz5U3DU0DuUKlCpSbla7wVC/view?usp=sharing)
 
  
 # 📌 INTRODUCTION
